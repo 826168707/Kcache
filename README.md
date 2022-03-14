@@ -1,5 +1,5 @@
 # Kcache
-学习[groupcache](https://github.com/golang/groupcache)实现的一种分布式LRU缓存。
+一种分布式LRU缓存。
 特性：
 + 缓存数据支持生命周期
 + 支持并发访问
